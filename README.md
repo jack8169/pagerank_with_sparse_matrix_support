@@ -1,0 +1,2 @@
+# pagerank_with_sparse_matrix_support
+In this assignment the PageRank algorithm has been implemented in Python. PageRank is used to rank websites in search results. It works by counting the number and quality of links to a page to determine a rough estimate of how important the website is. The underlying assumption is that more important websites are likely to receive more links from other websites.
